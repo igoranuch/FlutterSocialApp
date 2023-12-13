@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512596059510",
+    "project_id": "wallapp-e62df",
+    "storage_bucket": "wallapp-e62df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512596059510:android:bb3be3cb81dba3aa584657",
+        "android_client_info": {
+          "package_name": "com.example.web_project1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5lA6-O8ep69nK-9MCjaGVgDfUmE7vkEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
